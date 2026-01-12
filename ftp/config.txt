@@ -1,0 +1,5 @@
+FTP_HOST=ftp.example.com
+FTP_PORT=21
+FTP_USERNAME=ftp_admin
+FTP_PASSWORD=FtpPass@123
+FTP_ROOT=/public_html
